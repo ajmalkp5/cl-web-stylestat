@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+
+}
+#photo {
+    width: 250px;
+    height: 250px;
+    border: 5px solid gray ;
+    border-radius: 20%;
+}
+
+#name{
+        color: #6507c3;
+        text-shadow: 0 0 2px rgb(0, 0, 0);
+        font-size: 40px;
+        font-weight: 300px;
+        line-height: normal;
+}
+#college{
+    color: red;
+}
+#dev {
+    color: black;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.project {
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+    
+
+}
+.hobbie {
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    
+}
+.achievment {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+  
+
+}
+
+ul {
+    text-align: left;
+  
+}
+li{
+    color: darkcyan;
+}
+a {
+    text-decoration: none;
+    color: darkcyan;
+}
